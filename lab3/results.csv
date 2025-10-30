@@ -1,0 +1,7 @@
+algorithm,metric,1MB,10MB,KeyGen Time
+RSA,Key Generation,,,1.082112
+RSA,Encryption,0.108208,0.022345,
+RSA,Decryption,0.005113,0.012347,
+ECC,Key Generation,,,0.004943
+ECC,Encryption,0.046904,0.059083,
+ECC,Decryption,0.045341,0.053436,

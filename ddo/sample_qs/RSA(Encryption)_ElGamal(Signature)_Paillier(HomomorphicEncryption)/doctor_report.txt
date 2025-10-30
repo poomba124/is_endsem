@@ -1,0 +1,17 @@
+--- Doctor's Daily Report ---
+Doctor: Dr. A. Chandra
+Branch: Cardiology
+Timestamp: 2025-10-31 09:30:00
+Budget Request: 15000
+
+--- Doctor's Daily Report ---
+Doctor: Dr. B. Sharma
+Branch: Orthopedics
+Timestamp: 2025-10-31 10:15:00
+Budget Request: 8500
+
+--- Doctor's Daily Report ---
+Doctor: Dr. C. Singh
+Branch: Cardiology
+Timestamp: 2025-10-31 11:45:00
+Budget Request: 22000
